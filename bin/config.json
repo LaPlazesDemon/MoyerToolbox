@@ -1,0 +1,27 @@
+{
+    "conn_messages": {
+        "conversion_site": "This is a Speedway Conversion Site!\nMany options will be disabled\nWe do not have access to the networking equipment\nYou will need to use the Admin option to access the POSs`nIMC will not work on the POSs\n10.xxx.xxx.10 will access the store's DNS/DHCP server, rebooting this fixes most issues\n\nFollow Speedway Conversion KBs for guidance",
+        "RIS_10": "Store Found!\nThis is a RIS 1.0 store",
+        "RIS_20": "Store Found!\nThis is a RIS 2.0 store\nMake sure to follow 2.0 KBs",
+        "store_not_found": "Store couldn't be found",
+        "bad_store_number": "Invalid store number entered"
+    },
+    "command_messages": {
+        "dex_smart_reload_start": "DEX Smart Reload started\nThis will take a few minutes\nAnother message will notify you when the pumps are back online",
+        "dex_smart_reload_complete": "DEX Smart Reload completed\nAll pumps should be back online now",
+        "dex_force_reload": "DEX Force Reload started\nYou will not be notified when the pumps are back online"
+    },
+    "estimates_invalid_options": [
+        "",
+        "  -- POS --",
+        "  -- RIS 2.0 --",
+        "  -- ISP --",
+        "  -- Fuel --",
+        "  -- Networking --",
+        "  -- DEX --",
+        "  -- General --",
+        "CServe...",
+        "My Preferences...",
+        "Show Message on POS"
+    ]
+}
